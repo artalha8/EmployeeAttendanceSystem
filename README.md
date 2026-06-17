@@ -17,7 +17,7 @@ A robust desktop application built with C# and Windows Forms for managing employ
 * **Backend:** ADO.NET
 * **Database:** Microsoft SQL Server (LocalDB)
 
-## How to Run the Project (Important!)
+## How to Run the Project
 
 To evaluate this project locally, the database must be configured first.
 
